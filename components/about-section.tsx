@@ -57,13 +57,13 @@ export function AboutSection() {
               {/* Social Links & Resume */}
               <div className="mt-6 flex flex-wrap gap-3">
                 <Button variant="outline" size="sm" asChild className="gap-2">
-                  <a href="https://drive.google.com/drive/u/1/folders/1EeawFVzya4xLBbuqddMJhVSZyK9L7Ey_" download>
+                  <a href="https://drive.google.com/drive/u/1/folders/1EeawFVzya4xLBbuqddMJhVSZyK9L7Ey_">
                     <FileText className="h-4 w-4" />
                     Resume
                   </a>
                 </Button>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/Drei1006"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-9 h-9 rounded-lg border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-colors"
@@ -72,7 +72,7 @@ export function AboutSection() {
                   <Github className="h-4 w-4" />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/andrei-christopher-pesigan-631383397/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-9 h-9 rounded-lg border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-colors"
