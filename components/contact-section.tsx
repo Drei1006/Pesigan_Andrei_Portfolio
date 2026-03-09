@@ -32,12 +32,12 @@ const socialLinks = [
   {
     icon: Github,
     label: "GitHub",
-    href: "https://github.com",
+    href: "https://github.com/Drei1006",
   },
   {
     icon: Linkedin,
     label: "LinkedIn",
-    href: "https://linkedin.com",
+    href: "https://www.linkedin.com/in/andrei-christopher-pesigan-631383397/",
   },
 ]
 
