@@ -57,7 +57,7 @@ export function AboutSection() {
               {/* Social Links & Resume */}
               <div className="mt-6 flex flex-wrap gap-3">
                 <Button variant="outline" size="sm" asChild className="gap-2">
-                  <a href="/Pesigan_Andrei_Christopher_Resume.pdf"download>
+                  <a href="https://drive.google.com/file/d/18U6MsChm_7_x0VvBgu5iarCLsKKfFAEi/view?usp=sharing">
                     <FileText className="h-4 w-4" />
                     Resume
                   </a>
