@@ -23,7 +23,7 @@ const contactInfo = [
   {
     icon: MapPin,
     label: "Location",
-    value: "Batangas City, Philippines",
+    value: "Calcite Street, GC Berberabe Subdivision, Pallocan East, Batangas City, Philippines",
     href: null,
   },
 ]
