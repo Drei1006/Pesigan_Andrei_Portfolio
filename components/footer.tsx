@@ -3,12 +3,12 @@ import { Github, Linkedin, Mail } from "lucide-react"
 const socialLinks = [
   {
     icon: Github,
-    href: "https://github.com",
+    href: "https://github.com/Drei1006",
     label: "GitHub",
   },
   {
     icon: Linkedin,
-    href: "https://linkedin.com",
+    href: "https://www.linkedin.com/in/andrei-christopher-pesigan-631383397/",
     label: "LinkedIn",
   },
   {
