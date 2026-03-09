@@ -4,8 +4,8 @@ const experiences = [
   {
     type: "work",
     title: "Technical Support / Networking Trainee",
-    organization: "Department of Information and Communications Technology",
-    location: "Batangas City, Philippines",
+    organization: "Department of Information and Communications Technology Region IV-A",
+    location: "Telecom Road, Capitol Site, Brgy. Kumintang Ibaba, Batangas City, 4200 Philippines",
     period: "February 2025 – June 2025",
     description: [
       "Assisted in the installation and configuration of Wi-Fi networks, including router setup and network connectivity",
@@ -18,12 +18,12 @@ const experiences = [
     type: "education",
     title: "Bachelor of Science in Computer Engineering",
     organization: "University of Batangas",
-    location: "Batangas, Philippines",
+    location: "Hilltop, Kumintang Ibaba, Batangas City, 4200 Philippines",
     period: "August 2021 – August 2025",
     description: [
       "Capstone Project: Design and Implementation of Wireless Water Meter Reading System",
       "Strong foundation in software development, networking, and system integration",
-      "Hands-on experience with programming languages: Python, C++, Java, Kotlin",
+      "Hands-on experience with programming languages: Python, C++, Java, HTML/CSS",
       "Knowledge in CISCO technologies and network configuration",
     ],
   },
