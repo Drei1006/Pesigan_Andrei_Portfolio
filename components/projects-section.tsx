@@ -17,7 +17,7 @@ const projects = [
       "High reliability ratings from users",
     ],
     link: "#",
-    github: "#",
+    github: "https://github.com/Drei1006/Capstone-Project-Bolo-Cooperative-Automated-Water-Reading-.git",
   },
   {
     title: "Network Configuration & Security",
