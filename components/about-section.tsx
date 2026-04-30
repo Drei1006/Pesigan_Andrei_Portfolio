@@ -6,7 +6,7 @@ const highlights = [
   {
     icon: Code,
     title: "Software Development",
-    description: "Experienced in Python, C++, Java, React, and Node.js",
+    description: "Experienced in C++, Java, React, and Node.js",
   },
   {
     icon: Network,
@@ -105,7 +105,7 @@ export function AboutSection() {
               </p>
               <p className="text-muted-foreground leading-relaxed">
                 My academic journey has equipped me with strong foundations in programming 
-                languages including Python, C++, Java, and web technologies. I&apos;ve developed 
+                languages including C++, Java, and web technologies. I&apos;ve developed 
                 hands-on experience through my capstone project—a Wireless Water Meter Reading 
                 System—which involved Android development, real-time database synchronization, 
                 and automated billing processes.

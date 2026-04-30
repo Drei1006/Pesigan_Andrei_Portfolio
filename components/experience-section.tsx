@@ -23,7 +23,7 @@ const experiences = [
     description: [
       "Capstone Project: Design and Implementation of Wireless Water Meter Reading System",
       "Strong foundation in software development, networking, and system integration",
-      "Hands-on experience with programming languages: Python, C++, Java, HTML/CSS",
+      "Hands-on experience with programming languages: C++, Java, HTML/CSS",
       "Knowledge in CISCO technologies and network configuration",
     ],
   },
